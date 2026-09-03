@@ -41,7 +41,7 @@
 
 ```bash
 # Clone or download
-git clone https://github.com/yourusername/threat-intel-aggregator.git
+git clone https://github.com/Believe-sec-io/threat-intel-aggregator.git
 cd threat-intel-aggregator
 
 # Install dependencies
